@@ -87,11 +87,16 @@ section a {
 
 section img {
   width: 400px;
-  height: 200px;
+  height: 220px;
+  padding-bottom: 15px;
 }
 
 section .item {
   padding-left: 35px;
+}
+
+section .high-light {
+  color: #ff6000;
 }
 
 .title {
@@ -101,7 +106,7 @@ section .item {
 
 .personal .item span:first-child {
   display: inline-block;
-  width: 80px;
+  width: 60px;
 }
 
 .personal .item span:last-child::before {
