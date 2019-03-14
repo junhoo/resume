@@ -95,6 +95,11 @@ section .item {
   padding-left: 35px;
 }
 
+section .space {
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
 section .high-light {
   color: #ff6000;
 }
@@ -158,6 +163,12 @@ main {
   flex: 1;
   min-height: calc(100vh - 162px);
 }
+
+/* @media (max-width: 425px) {
+  section .item {
+    padding-top: 35px;
+  }
+} */
 
 @media (max-width: 425px) {
   header {
