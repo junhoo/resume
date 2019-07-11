@@ -28,7 +28,7 @@ header {
   background: #3c3c3c;
   width: 100%;
   text-align: center;
-  padding: 50px 0 10px 0;
+  padding: 40px 0 10px 0;
   color: #fff;
 }
 
@@ -96,8 +96,8 @@ section .item {
 }
 
 section .space {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 5px;
+  padding-bottom: 15px;
 }
 
 section .high-light {
